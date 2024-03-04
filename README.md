@@ -1,5 +1,5 @@
 ![logo](https://github.com/aditya232002/aditya232002/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Aditya Marathe</h1>
+<h1 align="center">Hi 👋, I'm Asma Kazi</h1>
 <h3 align="center">A passionate Software/IoT developer</h3>
 
 <img align ="right" alt="GIF" width="300"  src="gif file"/>
@@ -12,9 +12,9 @@
 <a href="https://linkedin.com/in/aditya-marathe232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-marathe232" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **asmakazi@gmail.com**
+- 📫 How to reach me **asmakazi4100@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-marathe232/](https://www.linkedin.com/in/aditya-marathe232/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/asma-kazi-95b00125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 - 💬 Ask me about  IoT, Python, Linux.
 
 - 📝 You can read my articles on [https://aditya232.hashnode.dev/](https://aditya232.hashnode.dev/)
