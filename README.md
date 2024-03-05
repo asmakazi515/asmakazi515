@@ -1,6 +1,6 @@
 ![Banner](https://github.com/asmakazi515/asmakazi515/assets/136073495/6615463a-b629-49fc-8c72-3a79c6446f63)
 <h1 align="center">Hi 👋, I'm Asma Kazi</h1>
-<h3 align="center">A passionate Software/IoT developer</h3>
+<h3 align="center">Computer Science & Engineering student</h3>
 
 <img align ="right" alt="GIF" width="300"  src="gif file"/>
 <p align="left"> <img src="banner file" alt="github id" /> </p>
