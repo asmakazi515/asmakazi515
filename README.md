@@ -1,4 +1,4 @@
-![logo](https://github.com/aditya232002/aditya232002/blob/main/Banner.png)
+![Banner](https://github.com/asmakazi515/asmakazi515/assets/136073495/6615463a-b629-49fc-8c72-3a79c6446f63)
 <h1 align="center">Hi 👋, I'm Asma Kazi</h1>
 <h3 align="center">A passionate Software/IoT developer</h3>
 
