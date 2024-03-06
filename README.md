@@ -14,7 +14,7 @@
 - 📫 How to reach me **asmakazi4100@gmail.com**
 
 - 📄 Know about my experiences [(https://www.linkedin.com/in/asma-kazi-95b00125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-- 💬 Ask me about  IoT, Python, Linux.
+-
 
 - 📝 You can read my articles on [https://aditya232.hashnode.dev/](https://aditya232.hashnode.dev/)
  
