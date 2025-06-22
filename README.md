@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *Java, Bootstrap, JavaScript*
 
-- 📫 How to reach me *asmakazi4100@gmail.com*
+- 📫 How to reach me *asmakazi5841@gmail.com*
 
 - ⚡ Fun fact *I think I am Funny*
 
